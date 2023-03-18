@@ -1,5 +1,9 @@
 My demo file on demo branch
 Second line on main branch
-secong line on main branch
+second line on main branch
 Second line on demo1 branch
+<<<<<<< HEAD
 Second line on main branch
+=======
+Second line on demo1 branch
+>>>>>>> demo1
